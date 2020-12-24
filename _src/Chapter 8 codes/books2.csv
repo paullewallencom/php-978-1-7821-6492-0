@@ -1,0 +1,9 @@
+id,cat,name,price,inStock,author,author_s,series_t,sequence_i,genre_s,last_modified
+000783943X,book,The Alchemist,2.99,true,Paulo Coelho,Paulo Coelho,The Delux Collection,1,fiction,2010-01-01T00:00:00Z
+000783944X,book,Veronika Decides To Die,3.99,true,Paulo Coelho,Paulo Coelho,The Delux Collection,2,fiction,2010-03-01T00:00:00Z
+000783945X,book,The Zahir,3.59,true,Paulo Coelho,Paulo Coelho,The Delux Collection,3,fiction,2010-05-01T00:00:00Z
+000783946X,book,The Valkyries,4.59,true,Paulo Coelho,Paulo Coelho,The Delux Collection,4,fiction,2010-07-01T00:00:00Z
+000783947X,book,The Pilgrimage,4.99,true,Paulo Coelho,Paulo Coelho,The Delux Collection,5,fiction,2010-09-01T00:00:00Z
+085738371X,book,The Girl with the Dragon Tattoo,9.99,true,Stieg Larsson,Stieg Larsson,Millennium Trilogy,1,fiction,2011-06-01T00:00:00Z
+085738372X,book,The Girl Who Played with Fire,10.99,true,Stieg Larsson,Stieg Larsson,Millennium Trilogy,2,fiction,2012-01-01T00:00:00Z
+085738373X,book,The Girl Who Kicked the Hornets' Nest,11.99,true,Stieg Larsson,Stieg Larsson,Millennium Trilogy,3,fiction,2012-06-01T00:00:00Z
